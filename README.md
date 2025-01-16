@@ -111,13 +111,13 @@ Check out the live application here: [FireMovies Live Link](https://spectacular-
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](assets/homepage_sample.png)
+![Home Page](https://ik.imagekit.io/m9qnay09g/P1.png?updatedAt=1737036484117)
 
 ### ➕ Add Movie Page
-![Add Movie Page](assets/addmovie_sample.png)
+![Add Movie Page](https://ik.imagekit.io/m9qnay09g/P2.png?updatedAt=1737036483002)
 
 ### 📄 View Movie Page
-![View Movie Page](assets/viewmovie_sample.png)
+![View Movie Page](https://ik.imagekit.io/m9qnay09g/P3.png?updatedAt=1737036482869)
 
 ---
 
